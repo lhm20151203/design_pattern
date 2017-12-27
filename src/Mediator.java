@@ -1,3 +1,4 @@
+//中介模式
 public class Mediator {
     public static void main(String[] args) {
         ConcreteMediator mediatorT=new ConcreteMediator();

@@ -1,3 +1,4 @@
+//外观模式
 public class Facade {
     public static void main(String[] args) {
         ModuleFacade moduleFacade=new ModuleFacade();

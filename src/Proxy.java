@@ -1,6 +1,6 @@
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
-
+//代理模式
 public class Proxy {
     public static void main(String[] args) {
         ProxyRole proxyRole=new ProxyRole(new XiaoA());

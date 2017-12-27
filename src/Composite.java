@@ -1,3 +1,4 @@
+//组合模式
 import java.util.ArrayList;
 import java.util.List;
 

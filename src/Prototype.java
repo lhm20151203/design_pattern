@@ -1,5 +1,5 @@
 import java.io.*;
-
+//原型模式
 public class Prototype {
 
     public static void main(String[] args) throws CloneNotSupportedException {

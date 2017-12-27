@@ -1,5 +1,4 @@
-import java.util.List;
-
+//迭代器模式
 public class Iterator {
     public static void main(String[] args) {
         Aggregate aggregate=new ConcreteAggregate();

@@ -1,3 +1,4 @@
+//建造者
 public class Builder {
     public static void main(String[] args) {
         PeopleDirector pd=new PeopleDirector();

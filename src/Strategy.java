@@ -1,3 +1,4 @@
+//策略模式
 public class Strategy {
 
     public static void main(String[] args) {

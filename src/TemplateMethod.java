@@ -1,3 +1,4 @@
+//模板方法模式
 public class TemplateMethod {
 
     public static void main(String[] args) {

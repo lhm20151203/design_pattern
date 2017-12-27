@@ -1,3 +1,4 @@
+//状态模式
 public class State {
     public static void main(String[] args) {
         Context c=new Context(new StateA());

@@ -1,3 +1,4 @@
+//装饰模式
 public class Decorate {
 
     public static void main(String[] args) {

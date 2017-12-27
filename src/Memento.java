@@ -1,3 +1,4 @@
+//备忘录模式
 public class Memento {
     public static void main(String[] args) {
         GameRole lhm=new GameRole();

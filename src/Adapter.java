@@ -1,3 +1,4 @@
+//适配器
 public class Adapter {
     public static void main(String[] args) {
         SmallPort smallPort=new SmallPort() {

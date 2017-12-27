@@ -1,3 +1,4 @@
+//简单工厂模式
 public class SimpleFactory {
 
     public static void main(String[] args) {

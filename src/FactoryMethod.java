@@ -1,3 +1,4 @@
+//工厂方法
 public class FactoryMethod {
     public static void main(String[] args) {
 

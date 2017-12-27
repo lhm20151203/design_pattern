@@ -1,3 +1,4 @@
+//抽象工厂
 public class AbstractFactory {
     public static void main(String[] args) {
         FactoryAbstract factoryAbstract=new FactoryBMW320();
